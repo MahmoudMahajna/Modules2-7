@@ -1,0 +1,6 @@
+c:\users\mahmood\documents\visual studio 2015\Projects\Quad\Quad\bin\Debug\Quad.exe.config
+c:\users\mahmood\documents\visual studio 2015\Projects\Quad\Quad\bin\Debug\Quad.exe
+c:\users\mahmood\documents\visual studio 2015\Projects\Quad\Quad\bin\Debug\Quad.pdb
+c:\users\mahmood\documents\visual studio 2015\Projects\Quad\Quad\obj\Debug\Quad.exe
+c:\users\mahmood\documents\visual studio 2015\Projects\Quad\Quad\obj\Debug\Quad.pdb
+C:\Users\Mahmood\Documents\Visual Studio 2015\Projects\Quad\Quad\obj\Debug\Quad.csprojResolveAssemblyReference.cache

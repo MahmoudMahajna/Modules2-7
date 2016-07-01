@@ -1,0 +1,8 @@
+C:\Users\Mahmood\documents\visual studio 2015\Projects\GenericApp\MultiDictionary.Test\bin\Debug\MultiDictionary.Test.dll
+C:\Users\Mahmood\documents\visual studio 2015\Projects\GenericApp\MultiDictionary.Test\bin\Debug\MultiDictionary.Test.pdb
+C:\Users\Mahmood\documents\visual studio 2015\Projects\GenericApp\MultiDictionary.Test\bin\Debug\GenericApp.exe
+C:\Users\Mahmood\documents\visual studio 2015\Projects\GenericApp\MultiDictionary.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mahmood\documents\visual studio 2015\Projects\GenericApp\MultiDictionary.Test\bin\Debug\GenericApp.pdb
+C:\Users\Mahmood\documents\visual studio 2015\Projects\GenericApp\MultiDictionary.Test\obj\Debug\MultiDictionary.Test.csprojResolveAssemblyReference.cache
+C:\Users\Mahmood\documents\visual studio 2015\Projects\GenericApp\MultiDictionary.Test\obj\Debug\MultiDictionary.Test.dll
+C:\Users\Mahmood\documents\visual studio 2015\Projects\GenericApp\MultiDictionary.Test\obj\Debug\MultiDictionary.Test.pdb

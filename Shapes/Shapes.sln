@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeLib", "ShapeLib\ShapeLib.csproj", "{CC7C8C31-D3A1-49C1-BDD5-D3EBBFE5B383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesApp", "ShapesApp\ShapesApp.csproj", "{B272FF14-94BF-4615-98E0-25C7D5527454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC7C8C31-D3A1-49C1-BDD5-D3EBBFE5B383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7C8C31-D3A1-49C1-BDD5-D3EBBFE5B383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7C8C31-D3A1-49C1-BDD5-D3EBBFE5B383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7C8C31-D3A1-49C1-BDD5-D3EBBFE5B383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B272FF14-94BF-4615-98E0-25C7D5527454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B272FF14-94BF-4615-98E0-25C7D5527454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B272FF14-94BF-4615-98E0-25C7D5527454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B272FF14-94BF-4615-98E0-25C7D5527454}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

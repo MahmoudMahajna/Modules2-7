@@ -1,0 +1,6 @@
+c:\users\mahmood\documents\visual studio 2015\Projects\Rationals\Rationals\bin\Debug\Rationals.exe.config
+c:\users\mahmood\documents\visual studio 2015\Projects\Rationals\Rationals\bin\Debug\Rationals.exe
+c:\users\mahmood\documents\visual studio 2015\Projects\Rationals\Rationals\bin\Debug\Rationals.pdb
+c:\users\mahmood\documents\visual studio 2015\Projects\Rationals\Rationals\obj\Debug\Rationals.csprojResolveAssemblyReference.cache
+c:\users\mahmood\documents\visual studio 2015\Projects\Rationals\Rationals\obj\Debug\Rationals.exe
+c:\users\mahmood\documents\visual studio 2015\Projects\Rationals\Rationals\obj\Debug\Rationals.pdb

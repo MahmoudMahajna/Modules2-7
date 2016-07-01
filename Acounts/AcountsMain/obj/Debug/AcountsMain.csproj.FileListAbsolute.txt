@@ -1,0 +1,11 @@
+c:\Users\Mahmood\documents\visual studio 2015\Projects\Acounts\AcountsMain\bin\Debug\AcountsMain.exe.config
+c:\Users\Mahmood\documents\visual studio 2015\Projects\Acounts\AcountsMain\bin\Debug\AcountsMain.exe
+c:\Users\Mahmood\documents\visual studio 2015\Projects\Acounts\AcountsMain\bin\Debug\AcountsMain.pdb
+c:\Users\Mahmood\documents\visual studio 2015\Projects\Acounts\AcountsMain\bin\Debug\AcountsLib.dll
+c:\Users\Mahmood\documents\visual studio 2015\Projects\Acounts\AcountsMain\bin\Debug\AcountsLib.pdb
+c:\Users\Mahmood\documents\visual studio 2015\Projects\Acounts\AcountsMain\obj\Debug\AcountsMain.csprojResolveAssemblyReference.cache
+c:\Users\Mahmood\documents\visual studio 2015\Projects\Acounts\AcountsMain\obj\Debug\AcountsMain.exe
+c:\Users\Mahmood\documents\visual studio 2015\Projects\Acounts\AcountsMain\obj\Debug\AcountsMain.pdb
+C:\Users\Mahmood\Documents\Visual Studio 2015\Projects\CodeValueProjects\Modules2-7\Acounts\AcountsMain\bin\Debug\AcountsMain.exe.config
+C:\Users\Mahmood\Documents\Visual Studio 2015\Projects\CodeValueProjects\Modules2-7\Acounts\AcountsMain\obj\Debug\AcountsMain.exe
+C:\Users\Mahmood\Documents\Visual Studio 2015\Projects\CodeValueProjects\Modules2-7\Acounts\AcountsMain\obj\Debug\AcountsMain.pdb

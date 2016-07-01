@@ -1,0 +1,8 @@
+C:\Users\Mahmood\Documents\Visual Studio 2015\Projects\Strings\Strings.Test\bin\Debug\Strings.Test.dll
+C:\Users\Mahmood\Documents\Visual Studio 2015\Projects\Strings\Strings.Test\bin\Debug\Strings.Test.pdb
+C:\Users\Mahmood\Documents\Visual Studio 2015\Projects\Strings\Strings.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mahmood\Documents\Visual Studio 2015\Projects\Strings\Strings.Test\bin\Debug\Strings.exe
+C:\Users\Mahmood\Documents\Visual Studio 2015\Projects\Strings\Strings.Test\bin\Debug\Strings.pdb
+C:\Users\Mahmood\Documents\Visual Studio 2015\Projects\Strings\Strings.Test\obj\Debug\Strings.Test.csprojResolveAssemblyReference.cache
+C:\Users\Mahmood\Documents\Visual Studio 2015\Projects\Strings\Strings.Test\obj\Debug\Strings.Test.dll
+C:\Users\Mahmood\Documents\Visual Studio 2015\Projects\Strings\Strings.Test\obj\Debug\Strings.Test.pdb

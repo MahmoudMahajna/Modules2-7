@@ -1,0 +1,6 @@
+C:\Users\Mahmood\documents\visual studio 2015\Projects\BinaryDisplay\UnitTestBinaryDisplay\bin\Debug\UnitTestBinaryDisplay.dll
+C:\Users\Mahmood\documents\visual studio 2015\Projects\BinaryDisplay\UnitTestBinaryDisplay\bin\Debug\UnitTestBinaryDisplay.pdb
+C:\Users\Mahmood\documents\visual studio 2015\Projects\BinaryDisplay\UnitTestBinaryDisplay\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mahmood\documents\visual studio 2015\Projects\BinaryDisplay\UnitTestBinaryDisplay\obj\Debug\UnitTestBinaryDisplay.csprojResolveAssemblyReference.cache
+C:\Users\Mahmood\documents\visual studio 2015\Projects\BinaryDisplay\UnitTestBinaryDisplay\obj\Debug\UnitTestBinaryDisplay.dll
+C:\Users\Mahmood\documents\visual studio 2015\Projects\BinaryDisplay\UnitTestBinaryDisplay\obj\Debug\UnitTestBinaryDisplay.pdb
