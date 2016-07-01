@@ -1,8 +1,0 @@
-c:\Users\Mahmood\documents\visual studio 2015\Projects\Acounts\Acounts.Test\bin\Debug\Acounts.Test.dll
-c:\Users\Mahmood\documents\visual studio 2015\Projects\Acounts\Acounts.Test\bin\Debug\Acounts.Test.pdb
-c:\Users\Mahmood\documents\visual studio 2015\Projects\Acounts\Acounts.Test\bin\Debug\AcountsLib.dll
-c:\Users\Mahmood\documents\visual studio 2015\Projects\Acounts\Acounts.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-c:\Users\Mahmood\documents\visual studio 2015\Projects\Acounts\Acounts.Test\bin\Debug\AcountsLib.pdb
-c:\Users\Mahmood\documents\visual studio 2015\Projects\Acounts\Acounts.Test\obj\Debug\Acounts.Test.csprojResolveAssemblyReference.cache
-c:\Users\Mahmood\documents\visual studio 2015\Projects\Acounts\Acounts.Test\obj\Debug\Acounts.Test.dll
-c:\Users\Mahmood\documents\visual studio 2015\Projects\Acounts\Acounts.Test\obj\Debug\Acounts.Test.pdb
