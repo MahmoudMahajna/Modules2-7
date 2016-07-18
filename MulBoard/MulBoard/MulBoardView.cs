@@ -16,7 +16,11 @@ namespace MulBoard
             {
                 for (var j = 0; j < _dim; j++)
                 {
+                    //What? Why random? this isn't what we asked for.
                     var rand = new Random().Next(1, (i + 2) * (j + 3));
+
+                    //We asked for this:
+                    //var rand = (i + 1)*(j + 1);
                     Console.Write($"{rand,4}");
                 }
                 Console.WriteLine();

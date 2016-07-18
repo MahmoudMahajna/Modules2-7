@@ -2,6 +2,8 @@
 
 namespace MulBoard
 {
+    //Not printing the left column or the last row.
+
     class Program
     {
         static void Main()
