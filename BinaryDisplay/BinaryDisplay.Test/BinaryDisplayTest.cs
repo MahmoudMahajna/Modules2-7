@@ -2,6 +2,8 @@
 
 namespace BinaryDisplay.Test
 {
+    //Not enough unit tests.
+    //Where are the tests for the binary conversion?
     [TestClass]
     public class BinaryDisplayTest
     {
