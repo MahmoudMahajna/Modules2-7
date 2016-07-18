@@ -3,6 +3,10 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Quad.Test
 {
+    //You could have added more tests.
+    //It would be easier to add more tests if you you had an idea to know what is the result of each method/calculation.
+    //Because some of your methods do more than one thing (parse and validate, get input, etc...) it is hard to test each one of them
+    //It is also hard because you print the failures inside 'logic' methods. So you don't have other indications. At least not trivial or releated to the Lab contract
     [TestClass]
     public class QuadTest
     {
