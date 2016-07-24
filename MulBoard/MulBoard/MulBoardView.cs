@@ -16,8 +16,8 @@ namespace MulBoard
             {
                 for (var j = 0; j < _dim; j++)
                 {
-                    var rand = new Random().Next(1, (i + 2) * (j + 3));
-                    Console.Write($"{rand,4}");
+                    var r = (i+1) * (j+1);
+                    Console.Write($"{r,4}");
                 }
                 Console.WriteLine();
             }

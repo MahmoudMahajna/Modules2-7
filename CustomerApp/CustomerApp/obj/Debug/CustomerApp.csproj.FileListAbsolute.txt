@@ -4,3 +4,12 @@ C:\Users\Mahmood\documents\visual studio 2015\Projects\CustomerApp\CustomerApp\b
 C:\Users\Mahmood\documents\visual studio 2015\Projects\CustomerApp\CustomerApp\obj\Debug\CustomerApp.csprojResolveAssemblyReference.cache
 C:\Users\Mahmood\documents\visual studio 2015\Projects\CustomerApp\CustomerApp\obj\Debug\CustomerApp.exe
 C:\Users\Mahmood\documents\visual studio 2015\Projects\CustomerApp\CustomerApp\obj\Debug\CustomerApp.pdb
+C:\Users\Mahmood\Source\Repos\Modules-\CustomerApp\CustomerApp\bin\Debug\CustomerApp.exe.config
+C:\Users\Mahmood\Source\Repos\Modules-\CustomerApp\CustomerApp\obj\Debug\CustomerApp.exe
+C:\Users\Mahmood\Source\Repos\Modules-\CustomerApp\CustomerApp\obj\Debug\CustomerApp.pdb
+C:\Users\Mahmood\Source\Repos\Modules2-7\CustomerApp\CustomerApp\bin\Debug\CustomerApp.exe.config
+C:\Users\Mahmood\Source\Repos\Modules2-7\CustomerApp\CustomerApp\obj\Debug\CustomerApp.exe
+C:\Users\Mahmood\Source\Repos\Modules2-7\CustomerApp\CustomerApp\obj\Debug\CustomerApp.pdb
+C:\Users\Mahmood\Source\Repos\Modules2-7\CustomerApp\CustomerApp\bin\Debug\CustomerApp.exe
+C:\Users\Mahmood\Source\Repos\Modules2-7\CustomerApp\CustomerApp\bin\Debug\CustomerApp.pdb
+C:\Users\Mahmood\Source\Repos\Modules2-7\CustomerApp\CustomerApp\obj\Debug\CustomerApp.csprojResolveAssemblyReference.cache
