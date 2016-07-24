@@ -2,6 +2,10 @@
 
 namespace Calculator.Test
 {
+    //The convention of Unittest is: MethodName_descriptionOfTest_expectedResult
+    //For example Add_TwoNumbers_3 // The test would be 1 + 2 = 3
+
+     //In overall, great!
     [TestClass]
     public class CalculatorTest
     {

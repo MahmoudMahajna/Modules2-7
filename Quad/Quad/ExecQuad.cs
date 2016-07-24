@@ -11,8 +11,11 @@ namespace Quad
                 Console.WriteLine("there is no 3 parameters");
                 return;
             }
+
+            //How would you know if the casting to number failed?
             double a, b, c;
             CheckAndGetParameters(args, out a, out b, out c);
+
             double sol1, sol2;
             CalculateAndPritSolution(out sol1, out sol2, a, b, c);
         
@@ -23,6 +26,8 @@ namespace Quad
             const double TOLERANCE = 0.00000001;
             sol1 = double.PositiveInfinity;
             sol2 = double.PositiveInfinity;
+
+            //The printing of the solution shouldn't be at the same level/method of the calculation
             if (Math.Abs(a) < TOLERANCE && Math.Abs(b) > TOLERANCE)
             {
                 sol1 = -c / b;
@@ -59,6 +64,7 @@ namespace Quad
                 Console.WriteLine("the third parameter is not a number");
         }
 
+        //Why did you extract this to a seperate method?
         private bool MyTryParse(string s, out double num)
         {
             return double.TryParse(s, out num);

@@ -8,6 +8,7 @@ namespace GuessingGame
         static void Main()
         {
             new GuessingGameClass().Play();
+
         }
     }
 }
