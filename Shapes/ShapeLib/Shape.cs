@@ -6,8 +6,9 @@ namespace ShapeLib
 {
     public abstract class Shape
     {
+        
         protected ConsoleColor Color { get; set; }
-        public  abstract double Area { get; }
+        public abstract double Area { get; }
 
         protected Shape(ConsoleColor c)
         {

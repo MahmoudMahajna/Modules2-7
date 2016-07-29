@@ -6,3 +6,11 @@ c:\users\mahmood\documents\visual studio 2015\Projects\Shapes\ShapesApp\bin\Debu
 c:\users\mahmood\documents\visual studio 2015\Projects\Shapes\ShapesApp\obj\Debug\ShapesApp.csprojResolveAssemblyReference.cache
 c:\users\mahmood\documents\visual studio 2015\Projects\Shapes\ShapesApp\obj\Debug\ShapesApp.exe
 c:\users\mahmood\documents\visual studio 2015\Projects\Shapes\ShapesApp\obj\Debug\ShapesApp.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Mahmoud Mahajna\Modules2-7\Shapes\ShapesApp\bin\Debug\ShapesApp.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\5\Mahmoud Mahajna\Modules2-7\Shapes\ShapesApp\obj\Debug\ShapesApp.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Mahmoud Mahajna\Modules2-7\Shapes\ShapesApp\obj\Debug\ShapesApp.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Mahmoud Mahajna\Modules2-7\Shapes\ShapesApp\bin\Debug\ShapesApp.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Mahmoud Mahajna\Modules2-7\Shapes\ShapesApp\bin\Debug\ShapesApp.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Mahmoud Mahajna\Modules2-7\Shapes\ShapesApp\bin\Debug\ShapeLib.dll
+D:\git\codevalue\advanced-net-course\home-assignments\5\Mahmoud Mahajna\Modules2-7\Shapes\ShapesApp\bin\Debug\ShapeLib.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Mahmoud Mahajna\Modules2-7\Shapes\ShapesApp\obj\Debug\ShapesApp.csprojResolveAssemblyReference.cache

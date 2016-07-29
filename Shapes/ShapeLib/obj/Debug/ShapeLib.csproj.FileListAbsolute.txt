@@ -3,3 +3,8 @@ c:\users\mahmood\documents\visual studio 2015\Projects\Shapes\ShapeLib\bin\Debug
 c:\users\mahmood\documents\visual studio 2015\Projects\Shapes\ShapeLib\obj\Debug\ShapeLib.csprojResolveAssemblyReference.cache
 c:\users\mahmood\documents\visual studio 2015\Projects\Shapes\ShapeLib\obj\Debug\ShapeLib.dll
 c:\users\mahmood\documents\visual studio 2015\Projects\Shapes\ShapeLib\obj\Debug\ShapeLib.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Mahmoud Mahajna\Modules2-7\Shapes\ShapeLib\bin\Debug\ShapeLib.dll
+D:\git\codevalue\advanced-net-course\home-assignments\5\Mahmoud Mahajna\Modules2-7\Shapes\ShapeLib\bin\Debug\ShapeLib.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Mahmoud Mahajna\Modules2-7\Shapes\ShapeLib\obj\Debug\ShapeLib.csprojResolveAssemblyReference.cache
+D:\git\codevalue\advanced-net-course\home-assignments\5\Mahmoud Mahajna\Modules2-7\Shapes\ShapeLib\obj\Debug\ShapeLib.dll
+D:\git\codevalue\advanced-net-course\home-assignments\5\Mahmoud Mahajna\Modules2-7\Shapes\ShapeLib\obj\Debug\ShapeLib.pdb

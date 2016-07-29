@@ -38,6 +38,13 @@ namespace ShapeLib
 
         public int CompareTo(object obj)
         {
+            /**
+             if(obj==null)
+                throw new System.ArgumentNullException();
+             if(obj is Rectangle == false)
+                throw new System.ArgumentException();
+
+             */
             var r = obj as Rectangle;
             if (r == null) throw new Exception();
             return (int) ( r.Area-Area);
