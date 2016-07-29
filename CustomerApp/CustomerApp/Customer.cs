@@ -19,6 +19,7 @@ namespace CustomerApp
 
         public int CompareTo(Customer c)
         {
+            //This is a case sensitive implementation
             return string.Compare(Name, c.Name, StringComparison.Ordinal);
         }
 

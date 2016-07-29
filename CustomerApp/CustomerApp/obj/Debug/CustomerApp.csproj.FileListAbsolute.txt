@@ -13,3 +13,6 @@ C:\Users\Mahmood\Source\Repos\Modules2-7\CustomerApp\CustomerApp\obj\Debug\Custo
 C:\Users\Mahmood\Source\Repos\Modules2-7\CustomerApp\CustomerApp\bin\Debug\CustomerApp.exe
 C:\Users\Mahmood\Source\Repos\Modules2-7\CustomerApp\CustomerApp\bin\Debug\CustomerApp.pdb
 C:\Users\Mahmood\Source\Repos\Modules2-7\CustomerApp\CustomerApp\obj\Debug\CustomerApp.csprojResolveAssemblyReference.cache
+D:\git\codevalue\advanced-net-course\home-assignments\5\Mahmoud Mahajna\Modules2-7\CustomerApp\CustomerApp\bin\Debug\CustomerApp.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\5\Mahmoud Mahajna\Modules2-7\CustomerApp\CustomerApp\obj\Debug\CustomerApp.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Mahmoud Mahajna\Modules2-7\CustomerApp\CustomerApp\obj\Debug\CustomerApp.pdb
