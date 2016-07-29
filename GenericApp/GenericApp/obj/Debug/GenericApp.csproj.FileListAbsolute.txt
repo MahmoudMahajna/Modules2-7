@@ -7,3 +7,6 @@ c:\users\mahmood\documents\visual studio 2015\Projects\GenericApp\GenericApp\obj
 C:\Users\Mahmood\Documents\Visual Studio 2015\Projects\CodeValueProjects\Modules2-7\GenericApp\GenericApp\bin\Debug\GenericApp.exe.config
 C:\Users\Mahmood\Documents\Visual Studio 2015\Projects\CodeValueProjects\Modules2-7\GenericApp\GenericApp\obj\Debug\GenericApp.exe
 C:\Users\Mahmood\Documents\Visual Studio 2015\Projects\CodeValueProjects\Modules2-7\GenericApp\GenericApp\obj\Debug\GenericApp.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Mahmoud Mahajna\Modules2-7\GenericApp\GenericApp\bin\Debug\GenericApp.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\5\Mahmoud Mahajna\Modules2-7\GenericApp\GenericApp\obj\Debug\GenericApp.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Mahmoud Mahajna\Modules2-7\GenericApp\GenericApp\obj\Debug\GenericApp.pdb

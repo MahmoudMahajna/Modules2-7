@@ -12,7 +12,11 @@ namespace GenericApp
 
         private Dictionary<K, LinkedList<V>> _multiDictionary;
         public ICollection<K> Keys => _multiDictionary.Keys;
+        
+        //Sahtein!
         public ICollection<V> Values => _multiDictionary.Values.SelectMany(i => i).ToList();
+        
+        //Sahtein!
         public int Count => _multiDictionary.Values.SelectMany(i => i).ToList().Count;
 
         public MultiDictionary()
